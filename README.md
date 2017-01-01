@@ -1,4 +1,4 @@
-# exploratorydata2
+# Getting & Cleaning Data Project
 The R script run_analysis.R contained in this repository does the following:
 
 1. Download the data set from the web and unzip
